@@ -429,15 +429,4 @@ Made with ❤️ by KercX
 https://img.shields.io/badge/Buy%20Me%20A-Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
 
 </div>
-```---
 
-Додаткові бейджі для профілю GitHub
-
-Якщо хочете додати бейджі у свій GitHub профіль (README.md вашого профілю):
-
-```markdown
-[![Rivals](https://img.shields.io/badge/Project-Rivals-ff69b4?style=flat-square&logo=github)](https://github.com/KercX/Rivals)
-[![OSINT](https://img.shields.io/badge/OSINT-Expert-00ADD8?style=flat-square&logo=shield)](https://github.com/KercX)
-[![Go](https://img.shields.io/badge/Go-Developer-00ADD8?style=flat-square&logo=go)](https://golang.org)
-[![Python](https://img.shields.io/badge/Python-Hacker-3776AB?style=flat-square&logo=python)](https://python.org)
-```
