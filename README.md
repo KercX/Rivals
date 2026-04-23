@@ -36,11 +36,7 @@
 - [📖 Usage Guide](#-usage-guide)
 - [🔧 Configuration](#-configuration)
 - [📁 Output Examples](#-output-examples)
-- [🛠️ Development](#️-development)
-- [🤝 Contributing](#-contributing)
-- [📞 Contact](#-contact)
-- [⚠️ Legal Notice](#️-legal-notice)
-- [📄 License](#-license)
+
 
 ---
 
